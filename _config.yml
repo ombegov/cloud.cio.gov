@@ -16,6 +16,7 @@ google_analytics_ua: UA-33523145-1
 
 # Configuration for DAP, add your agency ID here:
 dap_agency: EOP
+dap_subagency: OMB
 
 # Uncomment to enable AnchorJS functionality on docs layout.
 # See https://github.com/bryanbraun/anchorjs for more information.
