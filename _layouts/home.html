@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{% assign hero = page.hero %}
+{% include components/hero.html %}
+
+{% if page.tagline and page.intro %}
+<section class="usa-grid usa-section">
+  <h2>{{ page.tagline }}</h2>
+  {{ page.intro | markdownify }}
+</section>
+{% endif %}
+
+{% capture _graphics %}
+  {% include graphic-list.html graphics=page.graphics %}
+{% endcapture %}
+{% if page.graphics_position != 'after' %}{{ _graphics }}{% endif %}
+
+{% capture _icons %}
+  {% include icon-list.html icons=page.icons %}
+{% endcapture %}
+{% if page.icons_position != 'after' %}{{ _icons }}{% endif %}
+
+<section class="usa-section">
+  <div class="usa-grid">
+    {{ content }}
+  </div>
+</section>
+
+{% if page.graphics_position == 'after' %}{{ _graphics }}{% endif %}
+{% if page.icons_position == 'after' %}{{ _icons }}{% endif %}

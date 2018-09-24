@@ -1,0 +1,14 @@
+{% for link in include.links %}
+  <li>
+    <a href="{% if link.external %}{{ link.href }}{% else %}{{ link.href }}{% endif %}"
+    	{% if link.class %} class="{{ link.class }}" {% endif %}>
+    	{% if link.iconbefore %}<span aria-hidden
+          class="fa fa-{{ link.iconbefore }}"></span>
+      {% endif %}
+    	{{ link.text }}
+    	{% if link.iconafter %}<span aria-hidden
+          class="fa fa-{{ link.iconafter }}"></span>
+      {% endif %}
+    </a>
+  </li>
+{% endfor %}

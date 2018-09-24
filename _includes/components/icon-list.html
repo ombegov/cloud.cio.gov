@@ -1,0 +1,25 @@
+{% assign icons = include.icons %}
+{% if icons %}
+<section class="usa-section usa-section-dark usa-graphic_list usa-icon_list">
+  {% for icon in icons %}
+    {% cycle '<div class="usa-grid usa-graphic_list-row">', '' %}
+    <div class="usa-width-one-half usa-media_block">
+      {% if icon.href %}<a href="{{ icon.href }}" class="usa-icon_link">{% endif %}
+        <span aria-hidden
+          class="usa-media_block-img usa-feature_icon fa fa-{{ icon.image.icon }}"
+          title="{{ icon.image.alt }}"></span>
+      {% if icon.href %}</a>{% endif %}
+      <div class="usa-media_block-body">
+        {% if icon.title %}<h3>
+          {% if icon.href %}<a href="{{ icon.href }}">{% endif %}
+            {{ icon.title }}
+          {% if icon.href %}</a>{% endif %}
+        </h3>{% endif %}
+
+        {{ icon.description | markdownify }}
+      </div>
+    </div>
+    {% cycle '', '</div>' %}
+  {% endfor %}
+</section>
+{% endif %}

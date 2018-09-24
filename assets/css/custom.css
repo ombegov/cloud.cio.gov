@@ -1,0 +1,198 @@
+/* Custom Feature Icons for home page */
+
+.usa-icon_list h3 a {
+  text-decoration: none;
+  color: #02bfe7;
+}
+
+.usa-feature_icon {
+  font-size: 7rem;
+
+  display: inline-block;
+  width: 125px;
+  text-align: center;
+  line-height: 125px;
+
+  background-color: #0c71bc;
+  color: #ffffff;
+  border-radius: 75px;
+}
+
+.usa-icon_link:hover .usa-feature_icon {
+  background-color: #ffffff;
+  color: #0c71bc;
+}
+
+.usa-sidenav-list .fa {
+  display: inline-block;
+  text-align: center;
+  width: 1.6em;
+}
+
+.heading-icon {
+  margin-right: 0.6rem;
+}
+
+.action-item {
+  margin-top: 1.5rem;
+  padding: 0.85rem 1rem 0.85rem 1.8rem;
+  background-color: #bce4ff;
+  border-radius: .25rem;
+
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-column-gap: 10px;
+}
+
+.action-complete {
+  background-color: #aaffbb;
+}
+
+.action-item h3 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+
+  grid-column-start: 1;
+  grid-row: 1;
+}
+
+.action-item .action-status {
+  float: right;
+  font-style: oblique;
+
+  grid-column-start: 2;
+  grid-row: 1;
+}
+
+.action-item .action-content,
+.action-item .action-date {
+  grid-column: 1 / span 2;
+}
+
+.action-item .action-date {
+  margin-top: 0.75rem;
+  font-weight: bold;
+}
+
+.usa-logo-text {
+  font-size: 2rem;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+.usa-logo-text a {
+  display: grid;
+}
+
+
+.logo-wrapper {
+  display: inline-block;
+  vertical-align: middle;
+  grid-column-start: 1;
+  align-self: center;
+  border-radius: 5rem;
+  background-color: #d6d7d9;
+  /* border: 1px solid #999; */
+  margin-right: 1rem;
+  height: 4.5rem;
+}
+
+.logo {
+  vertical-align: middle;
+  height: 3rem;
+  width: 4.5rem;
+  margin-top: 0.75rem;
+}
+
+@media screen and (min-width: 951px) {
+  .logo {
+      height: 6rem;
+      width: 9rem;
+      margin-top: 1.5rem;
+  }
+
+  .logo-wrapper {
+    height: 9rem;
+  }
+}
+
+
+
+.usa-logo-title {
+  grid-column-start: 2;
+  align-self: center;
+}
+
+/* Pretty wrapping of the title. */
+.together {
+  display: inline-block;
+}
+
+/* Overrides */
+.usa-navbar {
+  border-bottom: none;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+.usa-content p {
+  max-width: initial;
+}
+
+/* Header */
+.draft-banner {
+  background-color: #112e51;
+  color: #ffffff;
+  padding: 1rem 0;
+}
+
+.draft-banner .usa-accordion {
+  color: #ffffff;
+}
+
+.draft-banner .usa-banner-header {
+  font-size: 1.5rem;
+}
+
+.draft-banner .usa-banner-button {
+  font-size: 1.5rem;
+  color: #02bfe7;
+  display: inline;
+  position: relative;
+  height:auto;
+  padding: 0px;
+  vertical-align: top;
+  margin-top: 2px;
+}
+
+.draft-banner a {
+  color: #02bfe7;
+}
+
+.draft-instructions {
+  font-size: 0.85em;
+  padding: 0rem 1rem;
+  border: 1px solid #666;
+  background-color: #eee;
+}
+
+.draft-instructions a {
+  color: #02bfe7;
+}
+
+.draft-instructions + h1 {
+
+}
+
+/* Footer */
+
+.usa-footer-contact-links {
+  padding: 3rem 0 1rem;
+}
+
+.usa-footer-contact-heading {
+  font-size: 1.5rem;
+}

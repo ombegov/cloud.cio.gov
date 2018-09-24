@@ -1,0 +1,28 @@
+<ul class="usa-sidenav-list">
+  {% for link in include.links %}
+    {% assign _href = link.href %}
+    {% assign _current = false %}
+    {% if link.href == page.url or link.href == page.permalink %}
+      {% assign _current = true %}
+    {% endif %}
+  <li>
+    <a href="{% if link.external == true %}{{ link.href }}{% else %}{{ link.href | relative_url }}{% endif %}"
+      {% if _current %} class="usa-current" {% endif %}
+      {% if link.class %}class="{{ link.class }}" {% endif %} >
+      {% if link.iconbefore %}<span aria-hidden
+          class="fa fa-{{ link.iconbefore }}"></span>
+      {% endif %}
+      {{ link.text }}
+      {% if link.iconafter %}<span aria-hidden
+          class="fa fa-{{ link.iconafter }}"></span>
+      {% endif %}
+    </a>
+
+    {% if link.subnav %}
+    <ul class="usa-sidenav-sub_list">
+      {% include subnav.html links=link.subnav %}
+    </ul>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
