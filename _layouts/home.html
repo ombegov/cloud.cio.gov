@@ -18,7 +18,7 @@ layout: default
 {% if page.graphics_position != 'after' %}{{ _graphics }}{% endif %}
 
 {% capture _icons %}
-  {% include icon-list.html icons=page.icons %}
+  {% include icon-list.html icons=page.icons iconheader=page.iconheader %}
 {% endcapture %}
 {% if page.icons_position != 'after' %}{{ _icons }}{% endif %}
 

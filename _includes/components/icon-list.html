@@ -1,6 +1,10 @@
 {% assign icons = include.icons %}
+{% assign iconheader = include.iconheader %}
 {% if icons %}
 <section class="usa-section usa-section-dark usa-graphic_list usa-icon_list">
+  {% if iconheader %}
+    <p class="icon-header usa-grid">{{ iconheader }}</p>
+  {% endif %}
   {% for icon in icons %}
     {% cycle '<div class="usa-grid usa-graphic_list-row">', '' %}
     <div class="usa-width-one-half usa-media_block">

@@ -119,7 +119,7 @@ to serving missions and being stewards of taxpayer dollars.
 
 ## Key Actions
 
-The Chief Information Council and Chief Financial Officer Council will
+The Chief Information Officer Council and Chief Financial Officer Council will
 work with the Office of Management and Budget, the General Services
 Administration, the Department of Homeland Security, and other Federal
 agencies to develop a work plan of actions and targeted policy updates

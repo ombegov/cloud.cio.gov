@@ -1,5 +1,9 @@
 /* Custom Feature Icons for home page */
 
+.icon-header {
+  margin-bottom: 5rem;
+}
+
 .usa-icon_list h3 a {
   text-decoration: none;
   color: #02bfe7;
