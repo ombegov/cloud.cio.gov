@@ -13,9 +13,11 @@ $z-index-nav:     9000;
 .usa-header {
   width: 100%;
   z-index: $z-index-header;
+  min-height: 6.5rem;
 
   @include media($nav-width) {
     border-bottom: 1px solid $color-gray-lighter;
+    min-height: auto;
   }
 
   a {
