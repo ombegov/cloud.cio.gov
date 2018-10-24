@@ -345,8 +345,8 @@ The Federal Risk and Authorization Management Program (FedRAMP) is a
 government-wide program that has proven the value of a standardized
 approach to security assessment, authorization, and continuous
 monitoring for large cloud services providers. Cloud service providers
-have shown their ability to meet Federal security requirements through
-standardized baselines and common criteria. With the growing marketplace
+have shown their ability to meet that is common Federal security requirements through
+standardized baselines and criteria. With the growing marketplace
 of providers, agencies have been able to rapidly adapt from old,
 unsecured legacy technology to mission-enabling, secure, and
 cost-effective cloud-based systems. 
@@ -357,7 +357,7 @@ working through the Joint Authorization Board, there is still work that
 can be done to improve the pace of authorizing new providers. In
 addition, the large number of agency-specific processes has made it
 complicated for agencies to issue an Authorization to Operate (ATO) for
-solutions, even when using existing authorized cloud service providers.
+solutions and using reciprocoty, even when using existing authorized cloud service providers.
 In fact, despite the importance to cybersecurity risk
 management,[^6] agencies continue to cite major obstacles with their own
 policies and practices, which has transformed the ATO process from a
@@ -474,7 +474,7 @@ ensure that contracts for High Value Assets, including those managed and
 operated in the cloud, include requirements to ensure visibility into
 the security of the asset. Additionally, agencies should include
 requirements for developers, manufacturers, and vendors to employ
-systems security and privacy engineering concepts. This will drive
+systems security, supply chain and privacy engineering concepts. This will drive
 targeted integration of security and privacy design principles, secure
 coding techniques, and trusted computing methods.
 
