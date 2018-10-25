@@ -599,6 +599,8 @@ strategies such as:
 
 -   Encouraging technical staff to speak at professional conferences
 
+-   Enabling staff and vendors to share code as open-source projects
+
 -   Reducing time to hire from months to weeks
 
 -   Holding national hiring events to strengthen awareness and outreach;
