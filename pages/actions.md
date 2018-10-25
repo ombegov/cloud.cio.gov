@@ -237,26 +237,7 @@ contract terms and conditions, etc.
 </div>
 
 <div class="action-item action-incomplete">
-  <h3 id="action-11">Action 11</h3>
-  <span class="action-status">In Progress</span>
-  <div class="action-content">
-
-The General Services Administration Cloud Solutions Category Team will
-implement supplier-relationship management through active engagement
-with industry partners. Key practices for successful category management
-include effective supplier-relationship management, managing supplier
-behavior beyond contract mechanics, and improved performance. It strives
-for two-way communication for proactive engagement to get ahead of
-supplier issues before they arise and focus on performance improvement
-opportunities. This collaborative process also drives innovation in the
-Federal marketplace.
-
-  </div>
-  <div class="action-date">Timeline: Within 18 months</div>
-</div>
-
-<div class="action-item action-incomplete">
-  <h3 id="action-12">Action 12</h3>
+  <h3 id="action-12">Action 11</h3>
   <span class="action-status">In Progress</span>
   <div class="action-content">
 
@@ -272,6 +253,25 @@ to cloud-implementation.
 
   </div>
   <div class="action-date">Timeline: Within 12 months</div>
+</div>
+
+<div class="action-item action-incomplete">
+  <h3 id="action-11">Action 12</h3>
+  <span class="action-status">Not yet started</span>
+  <div class="action-content">
+
+The General Services Administration Cloud Solutions Category Team will
+implement supplier-relationship management through active engagement
+with industry partners. Key practices for successful category management
+include effective supplier-relationship management, managing supplier
+behavior beyond contract mechanics, and improved performance. It strives
+for two-way communication for proactive engagement to get ahead of
+supplier issues before they arise and focus on performance improvement
+opportunities. This collaborative process also drives innovation in the
+Federal marketplace.
+
+  </div>
+  <div class="action-date">Timeline: Within 18 months</div>
 </div>
 
 <div class="action-item action-incomplete">
