@@ -136,7 +136,7 @@ Internet Connections Reference Architectures to clarify potential
 alternative models.
 
   </div>
-  <div class="action-date">Timeline: Within 6 months</div>
+  <div class="action-date">Timeline: Within 3 months</div>
 </div>
 
 <div class="action-item action-incomplete">
