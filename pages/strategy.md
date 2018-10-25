@@ -221,12 +221,16 @@ contracts to acquire them.
 
 Agencies should review their information technology portfolios to
 determine modernization plans for existing tools. They are encouraged to
-perform and leverage a full system and application rationalization, and
-those that have not begun this process are encouraged to start
-immediately. As part of this effort, agencies should consider whether
-virtualization, containerization, and other modern practices can be
-leveraged to increase efficiency in agency-owned data centers and vendor
-offerings. In accordance with the Federal Information Technology
+initiate a system and application rationalization process, and begin migrating key
+applications to a commercial cloud using virtualization, containerization,
+or other modern practices as soon as possible. The lessons learned from
+these early migrations will inform how to fully migrate and rationalize
+the entire portfolio. Agency staff should become familiar with using
+lean product management, agile development, continuous delivery, and
+automated infrastructure at the team and program level before committing
+to any long-term plan relying on government-owned data centers. Migrating
+iteratively will reduce risk of large-scale failure and mis-allocation of 
+resources. In accordance with the Federal Information Technology
 Acquisition Reform Act (FITARA),[^1] this process should be overseen by
 the Chief Information Officer (CIO) at the agency level to help identify
 potential opportunities for enterprise-wide improvement.
