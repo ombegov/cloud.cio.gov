@@ -250,9 +250,12 @@ infrastructure layers, as well as improve the governance of systems.
 Additionally, it is critical that agencies have comprehensive visibility
 of their data, both on-premises and in the cloud, and perform continuous
 monitoring in order to detect malicious activity. As agencies approach
-their modernization efforts, they should apply these capabilities to
-their high-risk, high-value assets first in order to take advantage of
-all that cloud has to offer.
+their modernization efforts, they should first migrate assets that
+will provide high-return on investment within a short timeline, and then
+they should apply any lessons learned to migrating high-risk, high-value assets.
+Attempts to migrate high-risk, high-value assets before the agency has
+solid experience with cloud operations and granting cloud ATOs will introduce
+delays and risk in the overall migration effort.
 
 The following programs are large elements of the current security
 strategy that must evolve with the changing technology landscape.
