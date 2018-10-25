@@ -282,7 +282,7 @@ to cloud-implementation.
 The Cloud Solutions Category Team will evaluate and recommend a set of
 government-wide contract vehicles for cloud services based on a thorough
 evaluation of each contract. Agencies need access to qualified
-contractors through well managed contracts that have demonstrated value.
+contractors through well-managed contracts that have demonstrated value.
 Once identified, these solution holders will collaborate to meet the
 needs of the Government and drive best value. Once approved by the
 Office of Management and Budget and the Information Technology Category
@@ -291,7 +291,7 @@ their cloud requirements. Wide adoption of these solutions will maximize
 the Government’s purchasing power, help agencies operate more
 efficiently, and expand collection and sharing of government-wide buying
 data. Implementation of these solutions will lead to better-informed
-business decisions
+business decisions.
 
   </div>
   <div class="action-date">Timeline: Within 18 months</div>
@@ -374,7 +374,7 @@ migration efforts as part of the strategic workforce planning efforts
 laid out in the President’s Management Agenda. Additionally, Federal
 reskilling initiatives will include positions affected by cloud
 migration, with the goal of training these Federal employees and
-providing them with the skillsets necessary to fill needed technology
+providing them with the skill sets necessary to fill needed technology
 and cybersecurity work roles.
 
   </div>
@@ -405,7 +405,8 @@ the acquisition of cloud-based services.
 
 The Chief Information Officers Council and the Chief Human Capital
 Officers Council will jointly develop and execute on strategies and
-initiatives that expand the use of career fairs, national hiring events,
+initiatives that encourage employee engagement in technology communities,
+expand the use of national hiring events,
 and “most wanted” talent advertisements. In addition, the councils will
 broaden the use of social media recruiting, and other hiring and
 recruitment best practices, as well as encourage adoption of the
@@ -441,7 +442,7 @@ Council, and the Chief Human Capital Officers Council, will develop a
 market-informed pay and compensation strategy. The strategy will address
 mission-critical technology and cybersecurity positions to improve
 recruitment and retention outcomes, as well as reduce barriers to hiring
-the nation’s top talent for technical and emerging technology roles
+the nation’s top talent for technical and emerging technology roles.
 
   </div>
   <div class="action-date">Timeline: Within 6 months</div>
