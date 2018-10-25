@@ -140,10 +140,11 @@ keep up with the changing market and emerging technologies.
 
 The term “cloud” inside of Government is often used to refer to any
 technology solution provided by an outside vendor. In practice, “cloud
-computing” refers to a variety of technologies that allow the rapid
-provisioning of systems or services from a shared pool of resources,
+computing” refers to a variety of technologies that allow the end-user,
+product owner, or another person close to the mission, to rapidly provision
+systems or services from a shared pool of resources,
 ranging from hosted email solutions provided by a private company, to a
-scalable application container run on government-owned servers in a
+automatically-scalable application container run on government-owned servers in a
 government-owned data center. A cloud migration strategy should not be
 considered a question of who owns the computing resources, data, and
 facility, but rather can this solution improve service delivery to
@@ -153,7 +154,7 @@ just considering if an application is “cloud” or not.
 
 Much of the previous guidance on the topic of cloud technology focused
 on potential benefits instead of realizing outcomes. As an example,
-moving an application from a traditional data center to a virtualized
+moving an application from a physical data center to a virtualized
 infrastructure vendor generally does not enable automatic application
 scalability with increased user demand. To achieve this goal, project
 development and execution efforts will often be needed to refactor
@@ -161,13 +162,14 @@ applications to take advantage of new capabilities such as
 auto-provisioning and auto-scaling, and this must be factored into
 analysis and planning.
 
-The traditional cloud deployment models reflected a progression of
+The established cloud deployment models reflected a progression of
 increasing vendor-ownership through system layers, from Infrastructure
 as a Service (IaaS) where vendors provide only the infrastructure and
 hardware, to Platform as a Service (PaaS) where vendors provide hosting
 and infrastructure management, to Software as a Service (SaaS) where
-agencies only need to provide their data and most other capabilities and
-functionality are provided by a vendor. Industry has since moved to a
+agencies only need to provide their data and configuration while the
+vendor provides most other capabilities and
+functionality. Industry has since moved to a
 more finely differentiated set of capabilities at different layers. The
 rapid development of both open source and proprietary offerings have
 made possible today almost any combination of vendor and Government
@@ -203,21 +205,26 @@ needs, lead mature practices, and drive positive outcomes.
 
 To accelerate cloud adoption, agencies should be expected to regularly
 evaluate their current state of maturity across the agency. **Security,
-Procurement, and Workforce** are three key areas that require serious
-consideration and investment to ensure successful adoption. Agencies
-should also evaluate their user needs for efficiency, accessibility, and
-privacy in the context of the solutions they choose.
+Procurement, and Workforce** are three key realms that require serious
+consideration and investment to ensure successful adoption. 
 
-For example, to utilize the distributed nature of cloud, moving security
-controls from the network perimeter closer to the data itself can
-improve the overall security posture. To realize the scalability,
-stability, security, and speed to market benefits of cloud
-infrastructure, agencies need to utilize modern agile development
-skills. Agencies additionally need to employ multidisciplinary practices
-that drive towards higher orders of automation and the use of logical
-controls. To better maximize return on investment, agencies should be
+As examples, in the security realm, agencies should utilize the distributed
+nature of cloud to move security controls from the network perimeter to controls
+that are closer to the data itself, improving their overall security posture.
+
+
+In the workforce realm, agencies need to utilize modern agile development and
+continuous delivery skills to realize the scalability, stability, security, and
+speed to market benefits of cloud infrastructure. Agencies additionally need to
+employ multidisciplinary practices that drive towards higher orders of
+automation and the use of logical controls
+
+And in the procurement realm, agencies should be
 able to compare potential service offerings and use best-in-class
-contracts to acquire them.
+contracts to acquire them to better maximize return on investment.
+
+Agencies should also evaluate their user needs for efficiency, accessibility,
+and privacy in the context of the solutions they choose.
 
 Agencies should review their information technology portfolios to
 determine modernization plans for existing tools. They are encouraged to
