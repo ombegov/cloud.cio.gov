@@ -73,7 +73,7 @@ sidenav:
     3. Send your content suggestions or proposed revisions to the OMB Office of the Federal Chief Information Officer via email to <a href="mailto:{{site.mail}}">{{site.mail}}</a>. Please note that all comments received will be posted publicly.
   </p>
   <p>
-    Comments will be accepted through <strong>October 31th, 2018</strong>.
+    Comments will be accepted through <strong>October 31st, 2018</strong>.
   </p>
 </header>
 {% endif %}
