@@ -628,7 +628,7 @@ transition strategies.
 
 ## Employee Communication, Engagement, and Transition Strategies
 
-Prior to migrating to the cloud, agencies should execute communication
+As agencies migrate to the cloud, agencies should execute communication
 plans that help employees understand the changes that will need to take
 place to implement the **Cloud Smart** strategy. For example, migration
 to the cloud may require decommissioning legacy systems that have been
