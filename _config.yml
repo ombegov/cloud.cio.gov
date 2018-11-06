@@ -38,7 +38,7 @@ dap_subagency: OMB
 #     output: true
 
 # Set this to false once the policy is no longer a draft, to remove the "draft" banner.
-draft: true
+draft: false
 
 mail: ofcio@omb.eop.gov
 
