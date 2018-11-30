@@ -104,7 +104,7 @@ usage of cloud services. This will be accomplished by:
 
 The Office of Management and Budget will release updated policy on
 infrastructure optimization, based on feedback from the Chief
-Information Officers Council’s Cloud & Data Center Community of
+Information Officers Council’s Cloud & Infrastructure Community of
 Practice, and in alignment with the Cloud Smart strategy. This will
 update the Data Center Optimization Initiative established in
 <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2016/m_16_19_1.pdf"
