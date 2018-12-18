@@ -282,8 +282,8 @@ hampered agencies’ ability to acquire new technologies including
 commercial cloud solutions, which use a distributed network model and
 use virtual, rather than physical, controls of data. In addition, these
 infrastructure designs have reduced agencies’ ability to take advantage
-of new paradigms such as the ability to create zero trust networks not
-bound by traditional firewalls.
+of new paradigms such as the ability to create zero-trust networks not
+bound by perimeter-based firewalls.
 
 As a result of these constraints, various agencies have worked with the
 Department of Homeland Security to establish agency-specific solutions
@@ -597,7 +597,11 @@ candidates to the Federal Government. In coordination with their Chief
 Human Capital Officer, agencies should execute proactive recruitment
 strategies such as:
 
--   Attending industry conferences with career fairs;
+-   Encouraging technical staff to speak at professional conferences
+
+-   Enabling staff and vendors to share code as open-source projects
+
+-   Reducing time to hire from months to weeks
 
 -   Holding national hiring events to strengthen awareness and outreach;
 
