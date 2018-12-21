@@ -255,7 +255,8 @@ their high-risk, high-value assets first in order to take advantage of
 all that cloud has to offer.
 
 The following programs are large elements of the current security
-strategy that must evolve with the changing technology landscape.
+strategy that must evolve with the changing technology landscape,
+allowing security to continue innovation to protect the data layer.
 However, with this update, agencies will need to think in terms of
 intended outcomes and capabilities, not merely programs, in approaching
 security holistically.
