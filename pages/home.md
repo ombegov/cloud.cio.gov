@@ -20,7 +20,7 @@ layout: home
 tagline: <span class="together">From Cloud First</span> <span class="together">to Cloud Smart</span>
 intro: |
 
-  The <strong>2018 Federal Cloud Computing Strategy &mdash; Cloud Smart &mdash;</strong> is a long-term, high-level strategy to drive cloud adoption in Federal agencies. This is the first cloud policy update in seven years, offering a path forward for agencies to migrate to a safe and secure cloud infrastructure. This new strategy will support agencies to achieve additional savings, security, and will deliver faster services. <a href="https://www.federalregister.gov/documents/2018/09/25/2018-20819/requests-for-comments-2018-federal-cloud-computing-strategy">Read the Federal Register Notice here.</a>
+  The <strong>2019 Federal Cloud Computing Strategy &mdash; Cloud Smart &mdash;</strong> is a long-term, high-level strategy to drive cloud adoption in Federal agencies. This is the first cloud policy update in seven years, offering a path forward for agencies to migrate to a safe and secure cloud infrastructure. This new strategy will support agencies to achieve additional savings, security, and will deliver faster services.
 
   <em>&quot;To keep up with the country's current pace of innovation, President Trump has placed a significant emphasis on modernizing the Federal government. By updating an outdated policy, Cloud Smart embraces best practices from both the federal government and the private sector, ensuring agencies have capability to leverage leading solutions to better serve agency mission, drive improved citizen services and increase cyber security.&quot;</em> &mdash; Suzette Kent, Federal Chief Information Officer
 

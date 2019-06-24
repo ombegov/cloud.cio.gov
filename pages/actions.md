@@ -48,9 +48,9 @@ these tasks.
 
 ## <span aria-hidden="" class="heading-icon fa fa-cloud"></span>General
 
-<div class="action-item action-incomplete">
+<div class="action-item action-complete">
   <h3 id="action-1">Action 1</h3>
-  <span class="action-status">In Progress</span>
+  <span class="action-status">Complete</span>
   <div class="action-content">
 
 The Chief Information Officers Council, the Office of Management and
@@ -62,12 +62,12 @@ will cover a variety of topics, from acquisition to implementation and
 beyond.
 
   </div>
-  <div class="action-date">Timeline: Within 3 Months</div>
+  <div class="action-date"><a href="https://hallways.cap.gsa.gov/app/#/gateway/cloud-information-center"><span class="fas fa-external-link"></span> Go to the Cloud Information Center</a></div>
 </div>
 
-<div class="action-item action-incomplete">
+<div class="action-item action-complete">
   <h3 id="action-2">Action 2</h3>
-  <span class="action-status">In Progress</span>
+  <span class="action-status">Complete</span>
   <div class="action-content">
 
 The Chief Information Officers Council will work with the Office of
@@ -94,7 +94,7 @@ usage of cloud services. This will be accomplished by:
 </ul>
 
   </div>
-  <div class="action-date">Timeline: Over the Next 6 Months / Ongoing</div>
+  <div class="action-date"><a href="https://www.cio.gov/assets/files/Application-Rationalization-Playbook.pdf"><span class="fas fa-external-link"></span> View the Application Rationalization Playbook</a></div>
 </div>
 
 <div class="action-item action-incomplete">
@@ -104,7 +104,7 @@ usage of cloud services. This will be accomplished by:
 
 The Office of Management and Budget will release updated policy on
 infrastructure optimization, based on feedback from the Chief
-Information Officers Council’s Cloud & Infrastructure Community of
+Information Officers Council’s Cloud & Data Center Community of
 Practice, and in alignment with the Cloud Smart strategy. This will
 update the Data Center Optimization Initiative established in
 <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2016/m_16_19_1.pdf"
@@ -139,16 +139,16 @@ alternative models.
   <div class="action-date">Timeline: Within 6 months</div>
 </div>
 
-<div class="action-item action-incomplete">
+<div class="action-item action-complete">
   <h3 id="action-5">Action 5</h3>
-  <span class="action-status">In Progress</span>
+  <span class="action-status">Complete</span>
   <div class="action-content">
 
 The Office of Management and Budget will publish an updated Identity,
 Credential, and Access Management (ICAM) Policy.
 
   </div>
-  <div class="action-date">Timeline: Within 3 months</div>
+  <div class="action-date"><a href="https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf"><span class="fas fa-external-link"></span> View M-19-17, Enabling Mission Delivery through Improved Identity, Credential, and Access Management</a></div>
 </div>
 
 <div class="action-item action-incomplete">
@@ -168,9 +168,9 @@ their data.
   <div class="action-date">Timeline: Within 12 months</div>
 </div>
 
-<div class="action-item action-incomplete">
+<div class="action-item action-complete">
   <h3 id="action-7">Action 7</h3>
-  <span class="action-status">In Progress</span>
+  <span class="action-status">Complete</span>
   <div class="action-content">
 
 The Office of Management and Budget will work with the General Services
@@ -180,12 +180,14 @@ FedRAMP Tailored. They will also work to revise FedRAMP and FedRAMP
 Tailored as necessary to expand adoption.
 
   </div>
-  <div class="action-date">Timeline: Within 6 months / Ongoing</div>
+  <div class="action-date">
+    <a href="https://tailored.fedramp.gov/"><span class="fas fa-external-link"></span> Learn about FedRAMP Tailored</a>
+  </div>
 </div>
 
-<div class="action-item action-incomplete">
+<div class="action-item action-complete">
   <h3 id="action-8">Action 8</h3>
-  <span class="action-status">In Progress</span>
+  <span class="action-status">Complete</span>
   <div class="action-content">
 
 The Office of Management and Budget, in coordination with General
@@ -197,12 +199,12 @@ eliminate duplication, and innovate agency approaches to security
 authorization in the cloud.
 
   </div>
-  <div class="action-date">Timeline: Within 6 months</div>
+  <div class="action-date">The CIO Council has created an ATO Working Group to further improve the process.</div>
 </div>
 
-<div class="action-item action-incomplete">
+<div class="action-item action-complete">
   <h3 id="action-9">Action 9</h3>
-  <span class="action-status">In Progress</span>
+  <span class="action-status">Complete (ongoing)</span>
   <div class="action-content">
 
 The Office of Management and Budget will work with the General Services
@@ -215,14 +217,14 @@ responsibilities across the executive branch enterprise and to create an
 agile iterative Authorization to Operate (ATO) process.
 
   </div>
-  <div class="action-date">Timeline: Within 9 months</div>
+  <div class="action-date">The CIO Council has created an ATO Working Group to further improve the process.</div>
 </div>
 
 ## <span aria-hidden="" class="heading-icon fa fa-money-check-alt"></span>Procurement
 
-<div class="action-item action-incomplete">
+<div class="action-item action-complete">
   <h3 id="action-10">Action 10</h3>
-  <span class="action-status">In Progress</span>
+  <span class="action-status">Complete</span>
   <div class="action-content">
 
 The Information Technology Category Manager and Cloud Solutions Category
@@ -233,12 +235,12 @@ cloud readiness assessment guides, standard requirements, common
 contract terms and conditions, etc.
 
   </div>
-  <div class="action-date">Timeline: Within 12 months</div>
+  <div class="action-date"><a href="https://hallways.cap.gsa.gov/app/#/gateway/cloud-information-center"><span class="fas fa-external-link"></span> Go to the Cloud Information Center</a></div>
 </div>
 
-<div class="action-item action-incomplete">
+<div class="action-item action-complete">
   <h3 id="action-11">Action 11</h3>
-  <span class="action-status">In Progress</span>
+  <span class="action-status">Complete</span>
   <div class="action-content">
 
 The General Services Administration Cloud Solutions Category Team will
@@ -252,12 +254,14 @@ opportunities. This collaborative process also drives innovation in the
 Federal marketplace.
 
   </div>
-  <div class="action-date">Timeline: Within 18 months</div>
+  <div class="action-date">
+    <a href="https://gsa.gov/cloud"><span class="fas fa-external-link"></span> Learn more about GSA's Cloud IT Acquisition Services</a>
+  </div>
 </div>
 
-<div class="action-item action-incomplete">
+<div class="action-item action-complete">
   <h3 id="action-12">Action 12</h3>
-  <span class="action-status">In Progress</span>
+  <span class="action-status">Complete</span>
   <div class="action-content">
 
 To ensure that all agencies have an opportunity to collaborate, share
@@ -271,7 +275,9 @@ category management to develop government-wide standards and approaches
 to cloud-implementation.
 
   </div>
-  <div class="action-date">Timeline: Within 12 months</div>
+  <div class="action-date">
+    <a href="https://gsa.gov/cloud"><span class="fas fa-external-link"></span> Learn more about GSA's Cloud IT Acquisition Services</a>
+  </div>
 </div>
 
 <div class="action-item action-incomplete">
@@ -317,9 +323,9 @@ practices.
   <div class="action-date">Timeline: Within 6 months</div>
 </div>
 
-<div class="action-item action-incomplete">
+<div class="action-item action-complete">
   <h3 id="action-15">Action 15</h3>
-  <span class="action-status">In Progress</span>
+  <span class="action-status">Complete</span>
   <div class="action-content">
 
 The Office of Management and Budget will provide direction to agencies
@@ -328,7 +334,7 @@ managed in the cloud, beginning with the incorporation of requirements
 set forth in the updated High Value Asset policy.
 
   </div>
-  <div class="action-date">Timeline: Within 6 months</div>
+  <div class="action-date"><a href="https://www.whitehouse.gov/wp-content/uploads/2018/12/M-19-03.pdf"><span class="fas fa-external-link"></span> View M-19-03, Strengthening the Cybersecurity of Federal Agencies by enhancing the High Value Asset Program</a></div>
 </div>
 
 ## <span aria-hidden="" class="heading-icon fa fa-users"></span>Workforce
@@ -347,9 +353,9 @@ roles within the NICE Cybersecurity Workforce Framework.
   <div class="action-date">Timeline: Within 6 months</div>
 </div>
 
-<div class="action-item action-incomplete">
+<div class="action-item action-complete">
   <h3 id="action-17">Action 17</h3>
-  <span class="action-status">In Progress</span>
+  <span class="action-status">Complete</span>
   <div class="action-content">
 
 Consistent with the President’s Management Agenda (PMA), each agency
@@ -360,12 +366,12 @@ address these two gaps must be executed no later than the end of Fiscal
 Year 2019.
 
   </div>
-  <div class="action-date">Timeline: Within 6 months</div>
+  <div class="action-date">See each agency's Human Capital Operating Plan for specific implementation details.</div>
 </div>
 
-<div class="action-item action-incomplete">
+<div class="action-item action-complete">
   <h3 id="action-18">Action 18</h3>
-  <span class="action-status">In Progress</span>
+  <span class="action-status">Complete (ongoing)</span>
   <div class="action-content">
 
 The Office of Management and Budget, supported by the Office of
@@ -378,7 +384,9 @@ providing them with the skillsets necessary to fill needed technology
 and cybersecurity work roles.
 
   </div>
-  <div class="action-date">Timeline: Within 6 months</div>
+  <div class="action-date">
+    <a href="https://www.challenge.gov/challenge/gear-center-challenge/"><span class="fas fa-external-link"></span> Learn about the GEAR Center Challenge</a>
+  </div>
 </div>
 
 <div class="action-item action-incomplete">
@@ -395,12 +403,12 @@ catalogs that help address skill gaps and strengthen course offerings in
 the acquisition of cloud-based services.
 
   </div>
-  <div class="action-date">Timeline: Within 6 months</div>
+  <div class="action-date">Timeline: Within 12 months</div>
 </div>
 
-<div class="action-item action-incomplete">
+<div class="action-item action-complete">
   <h3 id="action-20">Action 20</h3>
-  <span class="action-status">In Progress</span>
+  <span class="action-status">Complete (ongoing)</span>
   <div class="action-content">
 
 The Chief Information Officers Council and the Chief Human Capital
@@ -412,7 +420,9 @@ recruitment best practices, as well as encourage adoption of the
 strategy at agencies with critical skill gaps or work role shortages.
 
   </div>
-  <div class="action-date">Timeline: Within 3 months / Ongoing</div>
+  <div class="action-date">
+    <a href="https://www.cio.gov/reskilling/"><span class="fas fa-external-link"></span> Learn about the Federal Cybersecurity Reskilling Academy</a>
+  </div>
 </div>
 
 <div class="action-item action-incomplete">
@@ -428,7 +438,7 @@ transition. This information will be available in the information
 repository described in <a href="#action-1">Action 1</a>.
 
   </div>
-  <div class="action-date">Timeline: Within 6 months</div>
+  <div class="action-date">Timeline: Within 12 months</div>
 </div>
 
 <div class="action-item action-incomplete">
@@ -444,5 +454,5 @@ recruitment and retention outcomes, as well as reduce barriers to hiring
 the nation’s top talent for technical and emerging technology roles
 
   </div>
-  <div class="action-date">Timeline: Within 6 months</div>
+  <div class="action-date">Timeline: Within 12 months</div>
 </div>
