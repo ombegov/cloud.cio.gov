@@ -1,9 +1,5 @@
 /* Custom Feature Icons for home page */
 
-.icon-header {
-  margin-bottom: 5rem;
-}
-
 .usa-icon_list h3 a {
   text-decoration: none;
   color: #02bfe7;
@@ -61,9 +57,9 @@
 }
 
 .action-item .action-status {
+  float: right;
   font-style: oblique;
-  display: inline-block;
-  padding-bottom: 1rem;
+
   grid-column-start: 2;
   grid-row: 1;
 }
@@ -146,21 +142,13 @@ h2 {
   max-width: initial;
 }
 
-.usa-layout-docs {
-  clear: both;
+.usa-sidenav-list a {
+  padding-left: 0;
 }
 
-/* Don't allow footnotes to hold open the window width. */
-.footnotes {
-  overflow-wrap: break-word;
-  word-wrap: break-word;
-  -ms-word-break: break-all;
-  -ms-hyphens: auto;
-  -moz-hyphens: auto;
-  -webkit-hyphens: auto;
-  hyphens: auto;
+.usa-sidenav-sub_list a {
+  padding-left: 2.8rem;
 }
-
 
 /* Header */
 .draft-banner {
