@@ -97,9 +97,9 @@ usage of cloud services. This will be accomplished by:
   <div class="action-date"><a href="https://www.cio.gov/assets/files/Application-Rationalization-Playbook.pdf"><span class="fas fa-external-link"></span> View the Application Rationalization Playbook</a></div>
 </div>
 
-<div class="action-item action-incomplete">
+<div class="action-item action-complete">
   <h3 id="action-3">Action 3</h3>
-  <span class="action-status">In Progress</span>
+  <span class="action-status">Complete</span>
   <div class="action-content">
 
 The Office of Management and Budget will release updated policy on
@@ -112,7 +112,9 @@ update the Data Center Optimization Initiative established in
 Enhancement Act of 2017.
 
   </div>
-  <div class="action-date">Timeline: Within 6 months</div>
+  <div class="action-date">
+    <a href="https://datacenters.cio.gov/"><span class="fas fa-external-link"></span> View M-19-19 Update to Data Center Optimization Initiative (DCOI)</a>
+  </div>
 </div>
 
 ## <span aria-hidden="" class="heading-icon fa fa-shield-alt"></span>Security
