@@ -153,9 +153,9 @@ Credential, and Access Management (ICAM) Policy.
   <div class="action-date"><a href="https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf"><span class="fas fa-external-link"></span> View M-19-17, Enabling Mission Delivery through Improved Identity, Credential, and Access Management</a></div>
 </div>
 
-<div class="action-item action-incomplete">
+<div class="action-item action-complete">
   <h3 id="action-6">Action 6</h3>
-  <span class="action-status">In Progress</span>
+  <span class="action-status">Complete</span>
   <div class="action-content">
 
 The Office of Management and Budget will release updated guidance that
@@ -305,9 +305,9 @@ business decisions
   <div class="action-date">Timeline: Within 18 months</div>
 </div>
 
-<div class="action-item action-incomplete">
+<div class="action-item action-complete">
   <h3 id="action-14">Action 14</h3>
-  <span class="action-status">In Progress</span>
+  <span class="action-status">Complete</span>
   <div class="action-content">
 
 The Office of Management and Budget and the General Services
@@ -341,9 +341,9 @@ set forth in the updated High Value Asset policy.
 
 ## <span aria-hidden="" class="heading-icon fa fa-users"></span>Workforce
 
-<div class="action-item action-incomplete">
+<div class="action-item action-complete">
   <h3 id="action-16">Action 16</h3>
-  <span class="action-status">In Progress</span>
+  <span class="action-status">Complete</span>
   <div class="action-content">
 
 The Office of Personnel Management, with support from the Office of
