@@ -62,7 +62,7 @@ will cover a variety of topics, from acquisition to implementation and
 beyond.
 
   </div>
-  <div class="action-date"><a href="https://hallways.cap.gsa.gov/app/#/gateway/cloud-information-center"><span class="fas fa-external-link"></span> Go to the Cloud Information Center</a></div>
+  <div class="action-date"><a href="https://cic.gsa.gov/"><span class="fas fa-external-link"></span> Go to the Cloud Information Center</a></div>
 </div>
 
 <div class="action-item action-complete">
@@ -237,7 +237,7 @@ cloud readiness assessment guides, standard requirements, common
 contract terms and conditions, etc.
 
   </div>
-  <div class="action-date"><a href="https://hallways.cap.gsa.gov/app/#/gateway/cloud-information-center"><span class="fas fa-external-link"></span> Go to the Cloud Information Center</a></div>
+  <div class="action-date"><a href="https://cic.gsa.gov/"><span class="fas fa-external-link"></span> Go to the Cloud Information Center</a></div>
 </div>
 
 <div class="action-item action-complete">
